@@ -254,7 +254,7 @@ export default function Home() {
 
             <p className="mt-8 text-xl leading-8 text-stone-300">
               I am Dr. Monika T. Hoffmann, a geospatial scientist specialising in GIS, remote
-              sensing and conservation planning. I created <span className="italic">GIS for Nature</span>
+              sensing and conservation planning. I created <span className="italic">GIS for Nature </span>
               to bridge scientific research, geospatial technologies and practical
               conservation. Through spatial analysis, remote sensing and interactive web
               mapping, I transform complex environmental data into information, insights and tools that
